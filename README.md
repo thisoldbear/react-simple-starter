@@ -1,4 +1,4 @@
-# react-simple-starter
+# react-youtube-search
 
 A basic React app to search the YouTube API, render results and play a selected video.
 
